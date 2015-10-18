@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/shared":{"guestpath":"/srv/shared","hostpath":"E:/VM/ubuntu/shared","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/VM/ubuntu","disabled":false}}}
