@@ -13,7 +13,7 @@ Vagrant.configure(2) do |config|
   # Every Vagrant development environment requires a box. You can search for
   # boxes at https://atlas.hashicorp.com/search.
   # precise32 boxcutter/debian80-i386
-     config.vm.box = "deb/jessie-i386"
+     config.vm.box = "bmorg/debian-jessie-i386"
 
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
